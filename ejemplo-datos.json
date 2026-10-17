@@ -1,0 +1,16 @@
+[
+  {
+    "sensor_id": "b10a5678-e234-1234-89ab-cdef12345678",
+    "fecha": "2026-10-07 19:13:09.499000+0000",
+    "ubicacion": "Invernadero Principal",
+    "temperatura": 24.5,
+    "humedad": 60.2
+  },
+  {
+    "sensor_id": "c20b6789-f345-2345-90bc-def123456789",
+    "fecha": "2026-10-07 19:15:30.120000+0000",
+    "ubicacion": "Bodega Norte",
+    "temperatura": 21.8,
+    "humedad": 55.0
+  }
+]
